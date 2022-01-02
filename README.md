@@ -19,6 +19,4 @@
       
   </div>
   
-  <div>
-  [![willianrod's wakatime stats](https://github.com/LCS87)
-  </div>
+ 
