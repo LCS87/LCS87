@@ -18,3 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="52". width="52."/>
       
   </div>
+  
+  <div>
+  [![willianrod's wakatime stats](https://github.com/LCS87)
+  </div>
