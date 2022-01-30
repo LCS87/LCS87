@@ -1,7 +1,11 @@
 ### <h1>Oi! eu sou Leandro</h1>
 
-- 🔭 I’m currently working on R.Damasio Distrubuidora de Moto Peças
-- 🌱 I’m currently learning <strong>Javascript, HTML, CSS, C#, JAVA.</strong>
+🔭 I’m currently working on R.Damasio Distrubuidora de Moto Peças <br>
+🌱 I’m currently learning <strong>Javascript, HTML, CSS, C#, JAVA.</strong><hr>
+
+<div>
+<a href="mailto:lcostasantos1987@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div><hr>
 
 <div style="float:left;margin-right:5px;">
   <a href="https://https://github.com/LCS87">
@@ -18,6 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="52". width="52."/>
       
   </div><hr>
+  
   
   
  
