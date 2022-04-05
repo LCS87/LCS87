@@ -5,6 +5,7 @@
 
 <div>
 <a href="mailto:lcostasantos1987@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/leandrocs12766189"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div><hr>
 
 <div style="float:left;margin-right:5px;">
