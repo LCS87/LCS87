@@ -1,7 +1,7 @@
 ### <h1>Oi! eu sou Leandro</h1>
 
 🔭 I’m currently working on R.Damasio Distrubuidora de Moto Peças <br>
-🌱 I’m currently learning <strong>Javascript, HTML, CSS, C#, JAVA, PHP, MySQL</strong><hr>
+🌱 I’m currently learning <strong>Javascript, HTML, CSS, C#, JAVA, MySQL</strong><hr>
 
 <div>
 <a href="mailto:lcostasantos1987@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
