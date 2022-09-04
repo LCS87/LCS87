@@ -8,10 +8,10 @@
  
  <main>
  <div>
-⚡ I'm Electrical Technician <br>
-👩🏽‍💻 I'm Undergraduate Student System Analysis and Development.<br>
+👨📐✏️📈⚡ I'm Electrical Technician, international trade Technician<br>
+💻👨‍💻 I'm Undergraduate Student software engineer.<br>
 ☕ I'm like studying<strong> JAVA </strong> <br>
-🌱 Other languages/Frameworks/DBs i'm studying : C#, MySQL, Angular, Spring Boot, CSS, HTML, JavaScript, Typescript, SASS, BootStrap, Kotlin, Jenkins.
+🌱 Other languages/Frameworks/DBs i'm studying : MySQL, Angular, Spring Boot, JavaScript, Typescript, SASS, BootStrap, Kotlin.
  </div>
  </main><br>
   
