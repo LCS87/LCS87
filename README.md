@@ -41,7 +41,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"            width="52."/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"                        width="52."/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"                      width="52."/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"         width="52."/>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                          width="72."/>
+                  
       
   </div>
   
