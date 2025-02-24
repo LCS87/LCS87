@@ -9,9 +9,9 @@
  <main>
  <div>
 👨📐✏️📈⚡ I'm Electrical Technician, international trade Technician<br>
-💻👨‍💻 I'm Undergraduate Student software engineer.<br>
+💻👨‍💻 I have a degree in systems analysis and development.<br>
 ☕ I'm like studying<strong> JAVA </strong> <br>
-🌱 Other languages/Frameworks/DBs i'm studying : MySQL, Angular, Spring Boot, JavaScript, Typescript, SASS, BootStrap, Kotlin.
+🌱 Other languages/Frameworks/DBs i'm studying : MySQL, Spring Boot, JavaScript, BootStrap, Kotlin, PHP.
  </div>
  </main><br>
   
@@ -34,7 +34,6 @@
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"                        width="72."/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg"              width="72." />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"                  width="72." />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"      width="72."/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"             width="72." />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"     width="52."/>
