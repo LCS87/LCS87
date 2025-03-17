@@ -2,7 +2,11 @@
 <header>
 
   <h1> Hi! I'm Leandro </h1>
-  <p> I love Technology and programming java and Kotlin. </p>
+  <p> 
+      I love technology and geek culture.
+
+ </p>
+ 
   
  </header>
  
