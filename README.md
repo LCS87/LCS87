@@ -15,7 +15,7 @@
 👨📐✏️📈⚡ I'm Electrical Technician, international trade Technician<br>
 💻👨‍💻 I have a degree in systems analysis and development.<br>
 ☕ I'm like studying<strong> JAVA </strong> <br>
-🌱 Other languages/Frameworks/DBs i'm studying : MySQL, Spring Boot, JavaScript, BootStrap, Kotlin, PHP.
+🌱 Other languages/Frameworks/DBs: MySQL, Spring Boot, JavaScript, BootStrap, PHP, Laravel.
  </div>
  </main><br>
   
