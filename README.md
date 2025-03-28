@@ -20,6 +20,7 @@ Transitioning to the tech industry, I aim to combine my passion for innovation w
 - International Trade Technician - IFSUL de Minas
 - Quality technician - SENAI
 - Technician Web and Mobile Development - Universidade Federal de Goiás
+- Electrical engineer - UFAL
 
 
 ---
