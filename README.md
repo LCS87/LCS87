@@ -43,7 +43,6 @@ Transitioning to the tech industry, I aim to combine my passion for innovation w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocs12766189)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LCS87&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LCS87&layout=compact&langs_count=7&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
