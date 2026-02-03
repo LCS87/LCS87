@@ -1,8 +1,8 @@
 # Olá, eu sou o Leandro Costa ⚡
-> **Data Engineer & Backend Specialist** | Python, Java & SQL Expert
+> **Data Engineer & Backend ** | Python, Java & SQL Expert
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Data+Engineering+%26+ETL;Scalable+Backend+Systems;Massive+Data+Processing;Python+%26+Java+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Data+Engineering+%26+ETL;Scalable+Backend+Systems;Massive+Data+Processing;Python+%26+Java" alt="Typing SVG" />
 </p>
 
 ---
