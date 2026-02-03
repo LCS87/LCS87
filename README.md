@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Especialista em **Engenharia de Dados e Desenvolvimento Backend**, com foco em alta performance e processamento massivo. Minha expertise reside em converter volumes críticos de dados brutos (Big Data) em ativos estratégicos através de automação robusta, arquitetura SQL otimizada e concorrência avançada.
+Padawan em **Engenharia de Dados e Desenvolvimento Backend**, com foco em alta performance e processamento massivo. Minha expertise reside em converter volumes críticos de dados brutos (Big Data) em ativos estratégicos através de automação robusta, arquitetura SQL otimizada e concorrência avançada.
 
 - 🚀 **Foco Atual:** Processamento de bases críticas (CNPJ/Receita Federal) e arquitetura de integração via Webhooks.
 - 🎓 **Pós-graduado** em Big Data, BI e Analytics.
