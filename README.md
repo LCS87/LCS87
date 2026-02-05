@@ -66,7 +66,63 @@ Padawan em **Engenharia de Dados e Desenvolvimento Backend**, com foco em alta p
   <img src="https://img.shields.io/badge/FastAPI-005863?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
 </p>
+<table>
+  <tr>
+     <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br><strong>Docker</strong>
+      <br><sub>Containerization</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><strong>JavaScript</strong>
+      <br><sub>ES6+, DOM, APIs</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><strong>Python</strong>
+      <br><sub>AI/ML, Backend</sub>
+    </td>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" height="48" alt="PHP" />
+      <br><strong>PHP</strong>
+      <br><sub>Server-side</sub>
+    </td>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br><strong>JAVA</strong>
+      <br><sub>Backend</sub>
+    </td>
+     </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Flask" width="65" height="65" />
+      <br><strong>Flask</strong>
+      <br><sub>Python Web</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br><strong>MySQL</strong>
+      <br><sub>Relational DB</sub>
+    </td>
+      <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+      <br><sub>Advanced SQL</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" />
+      <br><strong>Firebase</strong>
+      <br><sub>BaaS</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 Conecte-se Comigo
