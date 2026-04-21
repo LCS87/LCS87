@@ -1,19 +1,53 @@
-# Olá, eu sou o Leandro Costa ⚡
+# Leandro Costa | Data Engineering & Backend Architecture ⚡
 
-> [SYSTEM INFO]
+> **Engenharia de Dados não é sobre mover bytes, é sobre eficiência sob pressão.**
 
-> Data Engineer & Backend  | Python, Java & SQL |
-> ETL Pipelines | Massive Data Processing | Scalable Systems
-
+Especialista em pipelines de processamento massivo e sistemas backend de alta vazão. Minha abordagem foca em extrair o máximo de performance do hardware disponível, utilizando concorrência avançada e arquiteturas de dados otimizadas.
 
 ---
 
-### 👨‍💻 Sobre Mim
-Padawan em **Engenharia de Dados e Desenvolvimento Backend**, com foco em alta performance e processamento massivo. Minha expertise reside em converter volumes críticos de dados brutos (Big Data) em ativos estratégicos através de automação robusta, arquitetura SQL otimizada e concorrência avançada.
+### 🚀 Performance em Números
+- **87M+ de registros:** Processados, enriquecidos e persistidos em menos de 3 horas.
+- **Concorrência:** Implementação de pipelines assíncronos (Python/Asyncio) e Multi-threading (Java/JVM).
+- **Escala:** Transformação de GBs de dados brutos não estruturados em ativos estratégicos para BI e Analytics.
 
-- 🚀 **Foco Atual:** Processamento de bases críticas (CNPJ/Receita Federal) e arquitetura de integração via Webhooks.
-- 🎓 **Pós-graduado** em Big Data, BI e Analytics.
-- 🛠️ **Diferencial:** Domínio técnico para transitar entre Python e Java, resolvendo gargalos de performance e threads.
+---
+
+### 📂 Projetos de Elite (Destaque Técnico)
+
+#### ⚡ [ETLreceitaPy](https://github.com/LCS87/ETLreceitaPy)
+*Arquitetura de alta performance para a base de dados da Receita Federal.*
+- **Benchmark:** Processamento de **87 milhões de linhas** em ~180 minutos.
+- **Tech:** Python (Asyncio/Aiohttp), PyArrow (Parquet Colunar), PostgreSQL (Bulk Load COPY).
+- **Diferencial:** Ingestão paralela com extração em memória e enriquecimento de operadoras em tempo real, eliminando gargalos de I/O de disco.
+
+#### 🏥 [ANS Intelligence App](https://github.com/LCS87/ans-app)
+*Plataforma Full-Stack para análise financeira da Agência Nacional de Saúde.*
+- **Tech:** FastAPI, Vue.js 3, Redis (Caching), MySQL.
+- **Desafio:** Automação do ciclo de vida do dado, desde o scraping de PDFs complexos até dashboards de Pareto e análise de concentração de mercado para milhões de registros contábeis.
+
+#### ☕ [ConsultaOperadoraV2](https://github.com/LCS87/ConsultaOperadoraV2)
+*Engine de classificação de Telecom em Java para máxima vazão.*
+- **Tech:** Java (Maven), Multi-threading, Google Libphonenumber.
+- **Foco:** Processamento paralelo de arquivos CSV massivos com validação rigorosa de CNPJ e identificação regional (Nordeste), superando limitações de concorrência de linguagens interpretadas.
+
+---
+
+### 🛠️ Toolbelt de Engenharia
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Ingestão & ETL** | `Python (Pandas/PyArrow/Asyncio)` `Java (Threads)` `Web Scraping` |
+| **Armazenamento** | `PostgreSQL (Expert)` `MySQL` `SQL Server` `Parquet` |
+| **Backend & API** | `FastAPI` `Flask` `PHP` `Redis` |
+| **Infra & Observability** | `Docker` `Prometheus` `Grafana` `Linux/Bash` |
+
+---
+
+### 🧠 Filosofia de Trabalho
+1. **Idempotência:** Pipelines que podem falhar e retomar sem corromper o estado.
+2. **Eficiência de Recurso:** Processar mais com menos memória (Chunking/Streaming).
+3. **Observabilidade:** Se você não consegue medir a vazão, você não tem um pipeline, tem um script.
 
 ---
 
@@ -23,31 +57,6 @@ Padawan em **Engenharia de Dados e Desenvolvimento Backend**, com foco em alta p
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LCS87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCS87&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
-
----
-
-### 📂 Projetos em Destaque (Engenharia de Dados & Backend)
-
-#### 🏭 [Big Data CNPJ Brasil](https://github.com/LCS87/cnpj-etl)
-*Pipeline de ETL para a base completa da Receita Federal (87 milhões de registros).*
-- **Desafio:** Ingestão massiva em MySQL com hardware limitado.
-- **Solução:** Implementação de lógica de *chunking* para otimização de RAM e carga paralela via ThreadPool.
-- **Impacto:** Transformação de gigabytes de dados não estruturados em uma base relacional de alta performance.
-
-#### 🤖 [Prospecção Inteligente: Z-API + Flask](https://github.com/LCS87/automacao-bandalarga)
-*Sistema de engajamento automatizado com arquitetura baseada em eventos.*
-- **Tech:** Python, Flask, Multithreading.
-- **Destaque:** Gestão de estado *thread-safe*, persistência de dados e consumo de webhooks em tempo real com segurança via API Keys.
-
-#### 📞 [CNPJ Processor: Operadora V2](https://github.com/LCS87/java-cnpj-processor)
-*Engine de alta performance em Java para classificação de operadoras.*
-- **Tech:** Java (Maven), Multi-threading, Google Libphonenumber.
-- **Destaque:** Processamento paralelo de arquivos CSV gigantescos utilizando a JVM para máxima vazão de dados.
-
-#### 🚀 [ANS Intelligence App](https://github.com/LCS87/ans-app)
-*Aplicação Full-Stack para automação e análise de dados da Agência Nacional de Saúde.*
-- **Stack:** FastAPI + Vue.js 3.
-- **Big Data:** Parsing de PDFs e processamento de balancetes trimestrais com +3M de linhas.
 
 ---
 
@@ -126,9 +135,12 @@ Padawan em **Engenharia de Dados e Desenvolvimento Backend**, com foco em alta p
 </table>
 ---
 
-### 📫 Conecte-se Comigo
+### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocs12766189)
-[![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcostasantos1987@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcostasantos1987@gmail.com)
+
+---
+*"A determinação mantém o percurso quando a empolgação acaba."*
 
 ---
 ![Snake animation](https://github.com/LCS87/LCS87/blob/output/github-contribution-grid-snake.svg)
